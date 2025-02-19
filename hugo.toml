@@ -1,0 +1,4 @@
+baseURL = 'https://afo.existential.beauty'
+languageCode = 'en-us'
+title = 'Leo Coogan AFO Portfolio'
+theme = ['hugo-coder', 'hugo-easy-gallery']
